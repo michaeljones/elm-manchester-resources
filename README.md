@@ -44,6 +44,10 @@
 - [Ellie - Elm Live Editor](https://ellie-app.com/new)
 - [Install Elm](https://guide.elm-lang.org/install.html)
 
+## Documentation and Tutorials
+
+- [Documentation](http://elm-lang.org/docs)
+- [Guide](https://guide.elm-lang.org/)
 
 ## Examples
 
@@ -54,4 +58,3 @@
 ## Our Meetup
 
 - [Elm Manchester](https://www.meetup.com/elm-manchester)
-
