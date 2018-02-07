@@ -48,6 +48,8 @@
 
 - [Documentation](http://elm-lang.org/docs)
 - [Guide](https://guide.elm-lang.org/)
+- [Latest Nodej.js Installation on Ubuntu](https://github.com/nodesource/distributions#debinstall)
+- [global npm without sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
 
 ## Examples
 
