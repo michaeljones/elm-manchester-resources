@@ -53,6 +53,10 @@
 - [Core Libraries](http://package.elm-lang.org/packages/elm-lang/core/5.1.1)
 - [Elm syntax](http://elm-lang.org/docs/syntax)
 
+## Packages
+
+- [Packages list](http://package.elm-lang.org/)
+
 ## Examples
 
 - [Elm-lang.org Examples](http://elm-lang.org/examples)
