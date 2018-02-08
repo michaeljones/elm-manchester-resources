@@ -51,6 +51,8 @@
 - [Latest Nodej.js Installation on Ubuntu](https://github.com/nodesource/distributions#debinstall)
 - [global npm without sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
 - [Core Libraries](http://package.elm-lang.org/packages/elm-lang/core/5.1.1)
+- [Elm syntax](http://elm-lang.org/docs/syntax)
+
 ## Examples
 
 - [Elm-lang.org Examples](http://elm-lang.org/examples)
