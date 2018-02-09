@@ -1,5 +1,10 @@
 # Elm Manchester Resources
 
+This is a list of resources & links created for the Manchester Elm Meetup group. To help people get
+started and find some good content.
+
+Please make pull requests or get in touch to be added as a collaborator.
+
 
 ## Community
 
@@ -39,6 +44,11 @@
 - [Elm Conf Playlists](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ/playlists)
 
 
+## Videos
+
+- **(New)** [Elm Seeds Series](https://elmseeds.thaterikperson.com/)
+
+
 ## Try Elm
 
 - [Ellie - Elm Live Editor](https://ellie-app.com/new)
@@ -49,6 +59,7 @@
 
 - [Elm-lang.org Examples](http://elm-lang.org/examples)
 - [Elm SPA Example](https://github.com/rtfeldman/elm-spa-example/)
+- [Elm Starter Projects](https://github.com/Triangle-Elm/elm-starter-projects)
 
 
 ## Our Meetup
