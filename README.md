@@ -61,6 +61,7 @@
 
 - [Elm-lang.org Examples](http://elm-lang.org/examples)
 - [Elm SPA Example](https://github.com/rtfeldman/elm-spa-example/)
+- [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 
 
 ## Our Meetup
