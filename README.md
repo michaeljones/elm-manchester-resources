@@ -58,6 +58,7 @@ Please make pull requests or get in touch to be added as a collaborator.
 
 - **(New)** [Documentation](http://elm-lang.org/docs)
 - **(New)** [Guide](https://guide.elm-lang.org/)
+- **(New)** [Elm Cheat Sheet](https://github.com/izdi/elm-cheat-sheet)
 - **(New)** [Latest Nodej.js Installation on Ubuntu](https://github.com/nodesource/distributions#debinstall)
 - **(New)** [global npm without sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
 - **(New)** [Core Libraries](http://package.elm-lang.org/packages/elm-lang/core/5.1.1)
