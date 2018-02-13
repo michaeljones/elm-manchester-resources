@@ -1,5 +1,10 @@
 # Elm Manchester Resources
 
+This is a list of resources & links created for the Manchester Elm Meetup group. To help people get
+started and find some good content.
+
+Please make pull requests or get in touch to be added as a collaborator.
+
 
 ## Community
 
@@ -37,6 +42,11 @@
 - [Kevin Yank - Elm in Production: Surprises & Pain Points](https://www.youtube.com/watch?v=LZj_1qVURL0&t=4s)
 - [Elm Europe Playlists](https://www.youtube.com/channel/UCT5HLUjjXdqUSUnpblFNOwQ/playlists)
 - [Elm Conf Playlists](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ/playlists)
+
+
+## Videos
+
+- **(New)** [Elm Seeds Series](https://elmseeds.thaterikperson.com/)
 
 
 ## Try Elm
