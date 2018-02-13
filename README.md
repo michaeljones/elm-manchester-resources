@@ -56,22 +56,22 @@ Please make pull requests or get in touch to be added as a collaborator.
 
 ## Documentation and Tutorials
 
-- [Documentation](http://elm-lang.org/docs)
-- [Guide](https://guide.elm-lang.org/)
-- [Latest Nodej.js Installation on Ubuntu](https://github.com/nodesource/distributions#debinstall)
-- [global npm without sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
-- [Core Libraries](http://package.elm-lang.org/packages/elm-lang/core/5.1.1)
-- [Elm syntax](http://elm-lang.org/docs/syntax)
+- **(New)** [Documentation](http://elm-lang.org/docs)
+- **(New)** [Guide](https://guide.elm-lang.org/)
+- **(New)** [Latest Nodej.js Installation on Ubuntu](https://github.com/nodesource/distributions#debinstall)
+- **(New)** [global npm without sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
+- **(New)** [Core Libraries](http://package.elm-lang.org/packages/elm-lang/core/5.1.1)
+- **(New)** [Elm syntax](http://elm-lang.org/docs/syntax)
 
 ## Packages
 
-- [Packages list](http://package.elm-lang.org/)
+- **(New)** [Packages list](http://package.elm-lang.org/)
 
 ## Examples
 
 - [Elm-lang.org Examples](http://elm-lang.org/examples)
 - [Elm SPA Example](https://github.com/rtfeldman/elm-spa-example/)
-- [Awesome Elm](https://github.com/isRuslan/awesome-elm)
+- **(New)** [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 - [Elm Starter Projects](https://github.com/Triangle-Elm/elm-starter-projects)
 
 ## Our Meetup
