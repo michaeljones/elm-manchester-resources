@@ -54,15 +54,26 @@ Please make pull requests or get in touch to be added as a collaborator.
 - [Ellie - Elm Live Editor](https://ellie-app.com/new)
 - [Install Elm](https://guide.elm-lang.org/install.html)
 
+## Documentation and Tutorials
+
+- [Documentation](http://elm-lang.org/docs)
+- [Guide](https://guide.elm-lang.org/)
+- [Latest Nodej.js Installation on Ubuntu](https://github.com/nodesource/distributions#debinstall)
+- [global npm without sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
+- [Core Libraries](http://package.elm-lang.org/packages/elm-lang/core/5.1.1)
+- [Elm syntax](http://elm-lang.org/docs/syntax)
+
+## Packages
+
+- [Packages list](http://package.elm-lang.org/)
 
 ## Examples
 
 - [Elm-lang.org Examples](http://elm-lang.org/examples)
 - [Elm SPA Example](https://github.com/rtfeldman/elm-spa-example/)
+- [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 - [Elm Starter Projects](https://github.com/Triangle-Elm/elm-starter-projects)
-
 
 ## Our Meetup
 
 - [Elm Manchester](https://www.meetup.com/elm-manchester)
-
