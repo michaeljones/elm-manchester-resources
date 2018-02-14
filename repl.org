@@ -70,17 +70,6 @@ adder a b c =
     a + b + c
 #+END_SRC
 
-** Reloading
-
-When you edit and save the changes in your code, you have to exit the REPL and
-reload it again. Just execute those 3 commands in the shell.
-
-#+BEGIN_EXAMPLE
-:exit
-elm-app repl
-import Main exposing (..)
-#+END_EXAMPLE
-
 ** Trying new code
 
 When you try adder function only with two arguments you will not get the
