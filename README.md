@@ -81,3 +81,7 @@ Please make pull requests or get in touch to be added as a collaborator.
 ## Our Meetup
 
 - [Elm Manchester](https://www.meetup.com/elm-manchester)
+
+## Interesting Links
+
+- **(New)** [Elm Style Guide](https://github.com/NoRedInk/elm-style-guide)
