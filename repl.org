@@ -1,0 +1,102 @@
+* Experimenting with the code in REPL
+
+** New project
+
+Create new project in the shell.
+
+#+BEGIN_EXAMPLE
+create-elm-app begin
+#+END_EXAMPLE
+
+That will create the begin folder with some files generated for you.
+
+Edit the `begin/src/Main.elm` file in your newly created project.
+
+In the `---- PROGRAM ----` section, above main function add the following code
+
+#+BEGIN_SRC elm
+adder : Int -> Int ->Int
+adder a b =
+    a + b
+#+END_SRC
+
+That will define adder function that you can use for your future experiments.
+
+** Repl
+
+Change directory in the shell
+
+#+BEGIN_EXAMPLE
+cd begin
+#+END_EXAMPLE
+
+Start the repl.
+
+#+BEGIN_EXAMPLE
+elm-app repl
+#+END_EXAMPLE
+
+That will read `elm-package.json` and load all your project files.
+
+Now you have to import the Main module.
+
+#+BEGIN_EXAMPLE
+import Main exposing (..)
+#+END_EXAMPLE
+
+If you do it this way, you will import all the functions defined in your project
+including your adder function. now if you type after the prompt `>` the
+following line
+
+#+BEGIN_EXAMPLE
+adder 12
+#+END_EXAMPLE
+
+, you will get the result and it's type.
+
+#+BEGIN_EXAMPLE
+3 : Int
+#+END_EXAMPLE
+
+** Alter you code
+
+Lets make our adder accept 3 arguments instead of 2.
+Edit the Main.elm file and modify the adder function to look like that and save
+your changes
+
+#+BEGIN_SRC elm
+adder : Int -> Int -> Int -> Int
+adder a b c =
+    a + b + c
+#+END_SRC
+
+** Reloading
+
+When you edit and save the changes in your code, you have to exit the repl and
+reload it again. Just execute those 3 commands in the shell.
+
+#+BEGIN_EXAMPLE
+:exit
+elm-app repl
+import Main exposing (..)
+#+END_EXAMPLE
+
+** Trying new code
+
+When you try adder function only with two arguments you will not get the
+expected result but a type signature.
+
+#+BEGIN_EXAMPLE
+> adder 1 2
+<function> : Int -> Int
+#+END_EXAMPLE
+
+That means we must pass one more integer to our adder to get expected integer
+result.
+
+#+BEGIN_EXAMPLE
+> adder 1 2 3
+6 : Int
+#+END_EXAMPLE
+
+Works as expected.
