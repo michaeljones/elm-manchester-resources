@@ -49,7 +49,7 @@ including your adder function. now if you type after the prompt ~>~ the
 following line
 
 #+BEGIN_EXAMPLE
-adder 12
+adder 1 2
 #+END_EXAMPLE
 
 , you will get the result and it's type.
