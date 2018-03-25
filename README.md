@@ -84,9 +84,8 @@ Please make pull requests or get in touch to be added as a collaborator.
 
 ## Interesting Links
 
+Perhaps these links are not immediate concern for a beginner, but they help to learn and understand the Elm style.
+
 - **(New)** [Elm Style Guide](https://github.com/NoRedInk/elm-style-guide)
 - **(New)** [Elm Format](https://github.com/avh4/elm-format)
-
-I am not too sure about the last one. I have used and it worked well for me, but
-it might not be suitable for the beginners. But for someone with 2 weeks of Elm
-experience it might be a useful tool.
+- **(New)** [The life of a file](https://www.youtube.com/watch?v=XpDsk374LDE) A talk explaining how Elm projects can be split into multiple files.
